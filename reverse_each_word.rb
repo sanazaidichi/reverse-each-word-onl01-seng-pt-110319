@@ -1,2 +1,2 @@
-def reverse_each_word("This is my sentence!")
-  
+def reverse_each_word("Hello there, and how are you?")
+  array.
